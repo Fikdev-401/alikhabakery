@@ -1,0 +1,75 @@
+{
+ "note": "Credits for the photographs in this folder: photos.mjs credits prints the footer block for the ones the pages use.",
+ "photos": [
+  {
+   "file": "photo-m33603672-1800.webp",
+   "files": [
+    "photo-m33603672-1200.webp",
+    "photo-m33603672-1800.webp",
+    "photo-m33603672-2400.webp",
+    "photo-m33603672-780x975.webp"
+   ],
+   "id": "m33603672",
+   "alt": "Rye loaves seeded with caraway on the stone floor of an open bread oven, iron doors either side",
+   "by": "Johann Jaritz",
+   "licence": "CC BY-SA 3.0 AT",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en/",
+   "page": "https://commons.wikimedia.org/wiki/File:Stabentheiner_Hof_Brotbackstube_Brotbacken_12062014_224.JPG",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-m37164269-1200.webp",
+   "files": [
+    "photo-m37164269-1200.webp"
+   ],
+   "id": "m37164269",
+   "alt": "Rye dough rising in coiled straw and wicker proving baskets on a weathered plank table against a log wall",
+   "by": "Wald1siedel",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://commons.wikimedia.org/wiki/File:Bread_dough_in_baskets_01.JPG",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-m33603558-1200.webp",
+   "files": [
+    "photo-m33603558-1200.webp"
+   ],
+   "id": "m33603558",
+   "alt": "Stone bread oven with its iron doors open and a tray of round seeded loaves inside",
+   "by": "Johann Jaritz",
+   "licence": "CC BY-SA 3.0 AT",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en/",
+   "page": "https://commons.wikimedia.org/wiki/File:Stabentheiner_Hof_Brotbackstube_Brotbacken_12062014_221.JPG",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-m11317510-1200.webp",
+   "files": [
+    "photo-m11317510-1200.webp"
+   ],
+   "id": "m11317510",
+   "alt": "A black iron bakery oven door with a long wooden peel resting in the opening and flour dust on the sill, tiled wall around it",
+   "by": "Chmee2",
+   "licence": "CC BY 3.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/3.0/",
+   "page": "https://commons.wikimedia.org/wiki/File:%C4%8Ci%C5%A1t%C4%9Bn%C3%AD_pece_po_pe%C4%8Den%C3%AD_chleba.JPG",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f10324991.webp",
+   "files": [
+    "photo-f10324991-500.webp",
+    "photo-f10324991-960.webp",
+    "photo-f10324991.webp"
+   ],
+   "id": "f10324991",
+   "alt": "Baked sugar cookies on tray and wire rack",
+   "by": "YoAmes",
+   "licence": "CC BY-SA 2.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Baked_sugar_cookies_on_tray_and_wire_rack.jpg",
+   "source": "Wikimedia Commons"
+  }
+ ]
+}
